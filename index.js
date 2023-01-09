@@ -21,5 +21,5 @@ app.listen(process.env.PORT || PORT, () => {
 });
 
 app.get("/", (req, res) => {
-  console.log("hello 13");
+  res.send("hello 123");
 });
