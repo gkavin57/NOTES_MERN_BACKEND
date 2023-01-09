@@ -1,7 +1,7 @@
 {
   "name": "notes_maker_backend",
   "version": "1.0.0",
-  "description": "notes_maker_backend app using mongoose and express js",
+  "description": "notes_MERN_backend app using mongoose and express js",
   "main": "index.js",
   "engines": {
     "node": "14.x"
@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "author": "Kirubaharan M",
+  "author": "KAVIN",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",
